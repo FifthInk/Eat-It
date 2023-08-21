@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E0D9D049-EA31-88BC-A2EA-0C6112C0647C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/collidertrigger.cs">
+    <Files>
+      <File FileName="Assets/page_up.cs" Line="20" Column="9" />
+      <File FileName="Assets/collidertrigger.cs" Line="31" Column="51" />
+      <File FileName="Assets/placemattrigger.cs" Line="21" Column="5" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="53" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
